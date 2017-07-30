@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.597805%" y1="0%" x2="76.3476443%" y2="91.6215655%" id="linearGradient-1">
+            <stop stop-color="#FAFAFA" offset="0%"></stop>
+            <stop stop-color="#C5C4C4" offset="96.3747608%"></stop>
+            <stop stop-color="#D5D4D4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3">
+            <g id="Magnifying-Glass-Coloured" transform="translate(21.000000, 21.000000)">
+                <path d="M762.903412,537.088071 L838.109598,537.088071 L838.109598,537.088071 C840.594879,537.088071 842.609598,539.10279 842.609598,541.588071 L842.609598,1015.90335 L842.609598,1015.90335 C842.609598,1039.15624 823.759401,1058.00644 800.506505,1058.00644 L800.506505,1058.00644 L800.506505,1058.00644 C777.253609,1058.00644 758.403412,1039.15624 758.403412,1015.90335 L758.403412,541.588071 L758.403412,541.588071 C758.403412,539.10279 760.418131,537.088071 762.903412,537.088071 Z" id="Rectangle-2" fill="#672F2F" transform="translate(800.506505, 797.547255) rotate(-45.000000) translate(-800.506505, -797.547255) "></path>
+                <ellipse id="Oval" stroke="#672F2F" stroke-width="30" fill="url(#linearGradient-1)" cx="368.402062" cy="364.642857" rx="368.402062" ry="364.642857"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
