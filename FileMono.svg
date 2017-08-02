@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>FileMono</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.1,92.4137931 L862.9,92.4137931 L862.9,92.4137931 C875.657778,92.4137931 886,102.756015 886,115.513793 L886,639.2 L886,639.2 C886,656.21037 872.21037,670 855.2,670 L38.5217391,670 L30.8,670 L30.8,670 C13.7896297,670 2.08316955e-15,656.21037 0,639.2 L0,115.513793 L-3.55271368e-15,115.513793 C-5.11509084e-15,102.756015 10.3422223,92.4137931 23.1,92.4137931 Z" id="path-1"></path>
+        <filter x="-2.7%" y="-4.2%" width="105.4%" height="108.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="8" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-8" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FileMono">
+            <g id="Folder" transform="translate(69.000000, 177.000000)">
+                <path d="M3.85,111.679531 L882.15,111.679531 L882.15,92.421485 C882.15,77.537411 870.084074,65.471485 855.2,65.471485 L301.328526,65.471485 L272.868536,13.8160038 C269.481431,7.668337 263.018167,3.85 255.999172,3.85 L30.8,3.85 C15.915926,3.85 3.85,15.915926 3.85,30.8 L3.85,111.679531 Z" id="Combined-Shape" stroke="#000000" stroke-width="7.7"></path>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#000000" stroke-width="7.7" d="M23.1,96.2637931 C12.4685186,96.2637931 3.85,104.882312 3.85,115.513793 L3.85,639.2 C3.85,654.084074 15.915926,666.15 30.8,666.15 L855.2,666.15 C870.084074,666.15 882.15,654.084074 882.15,639.2 L882.15,115.513793 C882.15,104.882312 873.531481,96.2637931 862.9,96.2637931 L23.1,96.2637931 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
