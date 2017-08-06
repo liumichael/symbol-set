@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>SpoonColour</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#CBCBCB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M563,339.619628 L563,991 C563,1008.67311 548.673112,1023 531,1023 L495,1023 C477.326888,1023 463,1008.67311 463,991 L463,339.619628 C404.740381,312.163858 363,238.081255 363,151 C363,40.54305 430.157288,-49 513,-49 C595.842712,-49 663,40.54305 663,151 C663,238.081255 621.259619,312.163858 563.000001,339.619619 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SpoonColour">
+            <g id="Spoon-Colour" transform="translate(513.000000, 487.000000) rotate(45.000000) translate(-513.000000, -487.000000) ">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#CECECE" stroke-width="4" d="M561,991 L561,338.351194 L562.147403,337.810454 C620.838056,310.151562 661,235.715244 661,151 C661,41.54305 594.592712,-47 513,-47 C431.407288,-47 365,41.54305 365,151 C365,235.715243 405.161944,310.151561 463.852598,337.810463 L465,338.351194 L465,991 C465,1007.56854 478.431458,1021 495,1021 L531,1021 C547.568542,1021 561,1007.56854 561,991 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

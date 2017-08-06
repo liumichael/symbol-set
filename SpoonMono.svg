@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>SpoonMono</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M563,339.619628 L563,991 C563,1008.67311 548.673112,1023 531,1023 L495,1023 C477.326888,1023 463,1008.67311 463,991 L463,339.619628 C404.740381,312.163858 363,238.081255 363,151 C363,40.54305 430.157288,-49 513,-49 C595.842712,-49 663,40.54305 663,151 C663,238.081255 621.259619,312.163858 563.000001,339.619619 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SpoonMono">
+            <g id="Spoon-Colour" transform="translate(513.000000, 487.000000) rotate(45.000000) translate(-513.000000, -487.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#000000" stroke-width="7" d="M559.5,991 L559.5,337.399869 L561.507955,336.453581 C619.632176,309.061628 659.5,235.170434 659.5,151 C659.5,42.29305 593.655212,-45.5 513,-45.5 C432.344788,-45.5 366.5,42.29305 366.5,151 C366.5,235.170433 406.367823,309.061628 464.492046,336.453589 L466.5,337.399869 L466.5,991 C466.5,1006.74012 479.259885,1019.5 495,1019.5 L531,1019.5 C546.740115,1019.5 559.5,1006.74012 559.5,991 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
