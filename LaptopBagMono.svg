@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>LaptopBagMono</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="82.5" y="5.5" width="660" height="825"></rect>
+        <rect id="path-2" x="363" y="363" width="110" height="44" rx="22"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LaptopBagMono">
+            <g id="Laptop-Bag-Mono" transform="translate(100.000000, 138.000000)">
+                <path d="M418,495 C266.121694,495 143,396.502645 143,275 C143,153.497355 266.121694,55 418,55 C569.878306,55 693,153.497355 693,275 C693,396.502645 569.878306,495 418,495 Z M429,462 C556.577777,462 660,378.277248 660,275 C660,171.722752 556.577777,88 429,88 C301.422223,88 198,171.722752 198,275 C198,378.277248 301.422223,462 429,462 Z" id="Handle" stroke="#000000" stroke-width="11" fill="#000000" transform="translate(418.000000, 275.000000) rotate(-90.000000) translate(-418.000000, -275.000000) "></path>
+                <g id="Rectangle-9" transform="translate(412.500000, 418.000000) rotate(-90.000000) translate(-412.500000, -418.000000) ">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="33" x="99" y="22" width="627" height="792"></rect>
+                </g>
+                <path d="M27.5,291.5 L194.520288,459.6887 L194.520288,459.6887 C215.170896,480.483772 243.265978,492.178543 272.572678,492.178543 L554.935664,492.178543 L554.935664,492.178543 C584.531451,492.178543 612.878665,480.252593 633.573225,459.094952 L797.5,291.5" id="Line-4" stroke="#000000" stroke-width="22" stroke-linecap="square"></path>
+                <g id="Rectangle-14">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#000000" stroke-width="11" x="368.5" y="368.5" width="99" height="33" rx="16.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
