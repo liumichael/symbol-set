@@ -23,7 +23,6 @@
         </linearGradient>
         <path d="M144.586667,501.780952 L501.92,501.780952 L501.92,501.780952 C520.697681,501.780952 535.92,517.003271 535.92,535.780952 L535.92,569.828571 L535.92,569.828571 C535.92,579.217412 528.308841,586.828571 518.92,586.828571 L127.586667,586.828571 L127.586667,586.828571 C118.197826,586.828571 110.586667,579.217412 110.586667,569.828571 L110.586667,535.780952 L110.586667,535.780952 C110.586667,517.003271 125.808985,501.780952 144.586667,501.780952 Z" id="path-6"></path>
         <rect id="path-7" x="170.133333" y="578.32381" width="25.52" height="68.0380952" rx="12.76"></rect>
-        <rect id="path-8" x="212.666667" y="246.638095" width="221.173333" height="136.07619" rx="25.5"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="BackpackColour">
@@ -46,10 +45,7 @@
                     <use fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
                     <rect stroke="#000000" stroke-width="8.5" x="174.383333" y="582.57381" width="17.02" height="59.5380952" rx="8.51"></rect>
                 </g>
-                <g id="Rectangle-19">
-                    <use fill="#BCC6CC" fill-rule="evenodd" xlink:href="#path-8"></use>
-                    <rect stroke="#000000" stroke-width="25.5" x="225.416667" y="259.388095" width="195.673333" height="110.57619" rx="25.5"></rect>
-                </g>
+                <rect id="Rectangle-19" stroke="#000000" stroke-width="25.5" fill="#BCC6CC" x="212.666667" y="246.638095" width="221.173333" height="136.07619" rx="25.5"></rect>
             </g>
         </g>
     </g>
