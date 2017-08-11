@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>BackpackColour</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.4855378%" y1="3.12101403%" x2="-2.49320274%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#222222" offset="0%"></stop>
+            <stop stop-color="#686868" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,297.666667 C0,170.846309 142.821165,68.0380952 319,68.0380952 C495.178835,68.0380952 638,170.846309 638,297.666667 L638,833.5 C638,866.360943 611.360943,893 578.5,893 L59.5,893 L59.5,893 C26.6390574,893 4.02430482e-15,866.360943 0,833.5 L0,297.666667 Z" id="path-2"></path>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#363636" offset="0%"></stop>
+            <stop stop-color="#232323" offset="0%"></stop>
+            <stop stop-color="#2D2D2D" offset="0%"></stop>
+            <stop stop-color="#686868" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="110.586667" y="501.780952" width="425.333333" height="306.171429" rx="34"></rect>
+        <linearGradient x1="100%" y1="0%" x2="0.0617825255%" y2="99.9382175%" id="linearGradient-5">
+            <stop stop-color="#363636" offset="0%"></stop>
+            <stop stop-color="#2A2A2A" offset="0%"></stop>
+            <stop stop-color="#767676" offset="99.9382175%"></stop>
+        </linearGradient>
+        <path d="M144.586667,501.780952 L501.92,501.780952 L501.92,501.780952 C520.697681,501.780952 535.92,517.003271 535.92,535.780952 L535.92,569.828571 L535.92,569.828571 C535.92,579.217412 528.308841,586.828571 518.92,586.828571 L127.586667,586.828571 L127.586667,586.828571 C118.197826,586.828571 110.586667,579.217412 110.586667,569.828571 L110.586667,535.780952 L110.586667,535.780952 C110.586667,517.003271 125.808985,501.780952 144.586667,501.780952 Z" id="path-6"></path>
+        <rect id="path-7" x="170.133333" y="578.32381" width="25.52" height="68.0380952" rx="12.76"></rect>
+        <rect id="path-8" x="212.666667" y="246.638095" width="221.173333" height="136.07619" rx="25.5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BackpackColour">
+            <g id="Backpack-Colour" transform="translate(193.000000, 66.000000)">
+                <path d="M319,170.095238 C260.273722,170.095238 212.666667,132.018122 212.666667,85.047619 C212.666667,38.077116 260.273722,0 319,0 C377.726278,0 425.333333,38.077116 425.333333,85.047619 C425.333333,132.018122 377.726278,170.095238 319,170.095238 Z M319,144.580952 C363.631972,144.580952 399.813333,117.926971 399.813333,85.047619 C399.813333,52.1682669 363.631972,25.5142857 319,25.5142857 C274.368028,25.5142857 238.186667,52.1682669 238.186667,85.047619 C238.186667,117.926971 274.368028,144.580952 319,144.580952 Z" id="Combined-Shape" stroke="#000000" stroke-width="8.5" fill="#000000"></path>
+                <g id="Combined-Shape">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#000000" stroke-width="25.5" d="M12.75,297.666667 L12.75,833.5 C12.75,859.319312 33.6806879,880.25 59.5,880.25 L578.5,880.25 C604.319312,880.25 625.25,859.319312 625.25,833.5 L625.25,297.666667 C625.25,178.960079 488.869485,80.7880952 319,80.7880952 C149.130515,80.7880952 12.75,178.960079 12.75,297.666667 Z"></path>
+                </g>
+                <path d="M12.75,531.540476 L12.75,833.5 C12.75,859.319312 33.6806879,880.25 59.5,880.25 L578.5,880.25 C604.319312,880.25 625.25,859.319312 625.25,833.5 L625.25,531.540476 L12.75,531.540476 Z" id="Rectangle-15" stroke="#000000" stroke-width="25.5"></path>
+                <g id="Rectangle-16">
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#000000" stroke-width="25.5" x="123.336667" y="514.530952" width="399.833333" height="280.671429" rx="34"></rect>
+                </g>
+                <g id="Rectangle-16">
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <path stroke="#000000" stroke-width="25.5" d="M144.586667,514.530952 C132.850616,514.530952 123.336667,524.044901 123.336667,535.780952 L123.336667,569.828571 C123.336667,572.175782 125.239456,574.078571 127.586667,574.078571 L518.92,574.078571 C521.26721,574.078571 523.17,572.175782 523.17,569.828571 L523.17,535.780952 C523.17,524.044901 513.656051,514.530952 501.92,514.530952 L144.586667,514.530952 Z"></path>
+                </g>
+                <g id="Rectangle-18">
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#000000" stroke-width="8.5" x="174.383333" y="582.57381" width="17.02" height="59.5380952" rx="8.51"></rect>
+                </g>
+                <g id="Rectangle-19">
+                    <use fill="#BCC6CC" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#000000" stroke-width="25.5" x="225.416667" y="259.388095" width="195.673333" height="110.57619" rx="25.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
